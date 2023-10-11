@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyüp Akdeniz</h1>
-<h3 align="right">I am Back-end developer from Turkey, Istanbul currently living in.</h3>
+<h3 align="left">I am Back-end developer from Turkey, Istanbul currently living in.</h3>
 
 - 🌱 I’m currently learning **Java, Spring, Docker and Kubernetes.**
 
