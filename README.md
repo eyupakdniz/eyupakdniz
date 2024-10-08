@@ -2,7 +2,7 @@
 
 - I am working as backend developer.
 - I consantly improve **Java, Spring, Sql, Docker and Kubernetes.**
-- I live Istanbul.
+- I live in Istanbul.
   
 <h2>Connect with me</h2>
 <p align="left">
